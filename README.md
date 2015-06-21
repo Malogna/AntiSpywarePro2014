@@ -1,3 +1,3 @@
 # Antispywarepro2014
-REMEMBER THIS IS NOT SUPPOSED TO BE A ROUGE OR A COMPUTER PLAUGE!!!
-Its Just An Test Antivirus Thingy.
+Nice Antivirus Developed By
+ItsMelon
